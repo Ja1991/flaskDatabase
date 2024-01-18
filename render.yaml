@@ -3,6 +3,7 @@ services:
   name: mysql
   plan: standard
   env: docker
+  region: Singapore
   autoDeploy: false
   disk:
     name: mysql
