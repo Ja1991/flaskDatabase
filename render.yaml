@@ -15,10 +15,10 @@ envVarGroups:
 - name: mysql
   envVars:
   - key: MYSQL_DATABASE
-    value: mysql
+    value: flaskDatabase
   - key: MYSQL_USER
-    value: mysql
+    value: root
   - key: MYSQL_PASSWORD
-    generateValue: true
+    value: mapunG26
   - key: MYSQL_ROOT_PASSWORD
-    generateValue: true
+    value: mapunG26
